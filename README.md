@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Link](https://polite-gnome-0a460c.netlify.app)
+[Live Version](https://marilirulita.github.io/portfolio-html/)
 
 ## Getting Started
 
