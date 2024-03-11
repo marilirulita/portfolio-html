@@ -106,3 +106,9 @@
   object-fit: cover;
   padding: 2px;
 }
+
+/* customized code */
+
+.customized-projects {
+  padding: 10px;
+}
